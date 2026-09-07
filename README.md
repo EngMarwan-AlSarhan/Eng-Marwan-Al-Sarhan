@@ -1,4 +1,4 @@
-Hi there, I'm Marwan Al Sarhan 👋
+### Hi there, I'm Marwan Al Sarhan 👋
 
 Communication & Computer Engineer | Technical Account Manager & IT Specialist
 📍 Amman, Jordan | 📞 +962 79 766 8980 | ✉️ Marwan.sarhan@ymail.com
@@ -31,7 +31,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
 - Administered and maintained company web infrastructure and digital assets.
 
-# Web Developer & Designer
+# Web Devs & Designer
 
 - EEC Academy | Remote (Texas, US) (Mar 2023 – Sep 2023)
 - Led the end-to-end redesign of the e-commerce platform, boosting sales by {25%} through usability testing and UX enhancements.
@@ -50,10 +50,11 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 🎓 Edu & Certs:
 
-* B.Sc. in Communication and Computer Engineering – Jadara University, Jordan
+* B.Sc. in Communication and Computer Engineering – Jadara Univ, Jo
 - (Graduated 2021 | GPA: 76.8/100)
 
-* Certifications:
+# 📜 Certifications:
+
   - Agile Project Management Fundamentals
   - Cyber Security Attack Techniques & System Protection (Edraak, 2022)
   - Introduction to Cloud Computing Concepts (Edraak, 2022)
