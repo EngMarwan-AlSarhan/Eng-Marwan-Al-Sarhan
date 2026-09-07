@@ -24,7 +24,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 💼 Career History
 
-# Associate Technical Account Manager & Business Development
+# CCE | TAM & IT Specialist
 
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
@@ -68,3 +68,4 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Email: Marwan.sarhan@ymail.com
 - Phone: +962 79 766 8980
 
+# Thank you 🙏🏻
