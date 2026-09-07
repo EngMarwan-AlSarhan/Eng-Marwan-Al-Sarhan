@@ -11,13 +11,14 @@ Innovative Communication and Computer Engineering graduate (Jadara University, 2
 I specialize in bridging the gap between engineering systems, IT infrastructure, and business operations. My background spans managing engineering submittals and technical procurement, optimizing corporate IT networks, and driving business growth through UX/UI and web development.
 
 
-# 🛠️ Core Competencies & Skills
+# 🛠️ Key Skills
 
 * Management & Operations: Technical Account Management, Business Development, IT Project Management, Agile Fundamentals, Cross-functional Collaboration, Engineering Submittals.
 
 * Engineering & Hardware: Digital Signal Processing (DSP), Wireless Communications, Computer Networks, Control Systems, Circuit Design, Drone Development, Embedded Systems.
 
 * Tech & Digital Assets: Web & UI/UX Design (Wix), E-commerce Optimization, System Administration, Microsoft Office 365, Digital Asset Management.
+
 * Languages: Arabic (Native) | English (Fluent)
 
 
@@ -30,22 +31,27 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Administered and maintained company web infrastructure and digital assets.
 
 # Web Developer & Designer
+
 - EEC Academy | Remote (Texas, US) (Mar 2023 – Sep 2023)
 - Led the end-to-end redesign of the e-commerce platform, boosting sales by {25%} through usability testing and UX enhancements.
 
 # IT Project Manager
+
 - Excellent For Energy Consultancy | Remote (Texas, US) (May 2020 – Jun 2023)
 - Managed technology projects from conception to deployment.
 - Optimized internal systems and IT infrastructure for business consultancy services.
 
 # Web UI/UX Designer
+
 - US Procorp Co | Remote (Texas, US) (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
 
-### 🎓 Education & Certifications:
+# 🎓 Edu & Certifications:
 
-* B.Sc. in Communication and Computer Engineering – Jadara University, Jordan (Graduated 2021 | GPA: 76.8/100)
+* B.Sc. in Communication and Computer Engineering – Jadara University, Jordan
+- (Graduated 2021 | GPA: 76.8/100)
+
 * Certifications:
   - Agile Project Management Fundamentals
   - Cyber Security Attack Techniques & System Protection (Edraak, 2022)
