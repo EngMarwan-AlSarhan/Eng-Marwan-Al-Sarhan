@@ -8,7 +8,7 @@ Communication & Computer Engineer | Tech Account Man & IT Specialist
 
 ---
 
-# 🌟 Bio 
+# 👷🏻‍♂️ Bio 
 
 Innovative Communication and Computer Engineering graduate (Jadara University, 2021) with a proven track record as a Technical Account Manager, IT Project Manager, and Web Developer/Designer. 
 
@@ -30,25 +30,25 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 💼 Career History
 
-# 1- CCE | TAM & Tech Spec
+# CCE | TAM & Tech Spec
 
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
 - Administered and maintained company web infrastructure and digital assets.
 
-# 2- Web Devs & Designer
+# Web Devs & Designer
 
 - EEC Academy | Remote (Texas, US) (Mar 2023 – Sep 2023)
 - Led the end-to-end redesign of the e-commerce platform, boosting sales by {25%} through usability testing and UX enhancements.
 
-# 3- IT Project Manager
+# IT Project Manager
 
 - Excellent For Energy Consultancy | Remote (Texas, US) (May 2020 – Jun 2023)
 - Managed technology projects from conception to deployment.
 - Optimized internal systems and IT infrastructure for business consultancy services.
 
-# 4- Web UI/UX Designer
+# Web UI/UX Designer
 
 - US Procorp Co | Remote (Texas, US) (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
