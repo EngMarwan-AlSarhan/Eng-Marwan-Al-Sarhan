@@ -58,14 +58,14 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 ---
 
-# 🎓 Edu & Certs:
+# 🎓 Education & Certs
 
 * B.Sc. in Communication and Computer Engineering – Jadara Univ, Jo
 - (Graduated 2021 | GPA: 76.8/100)
 
 ---
 
-# 📜 Certifications:
+# 📜 Certifications
 
   - Agile Project Management Fundamentals
   - Cyber Security Attack Techniques & System Protection (Edraak, 2022)
@@ -75,7 +75,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 ---
 
-# 📬 Get in Touch:
+# 📬 Get in Touch
 
 *  **LinkedIn:** [Marwan Al Sarhan](https://www.linkedin.com/in/marwan-sarhan)
 *  **Phone:** [+962797668980](tel+962797668980)
