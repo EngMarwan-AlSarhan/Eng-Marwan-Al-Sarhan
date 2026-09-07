@@ -57,4 +57,3 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Email: Marwan.sarhan@ymail.com
 - Phone: +962 79 766 8980
 
-
