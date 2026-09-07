@@ -4,7 +4,7 @@ Communication & Computer Engineer | Technical Account Manager & IT Specialist
 📍 Amman, Jordan | 📞 +962 79 766 8980 | ✉️ Marwan.sarhan@ymail.com
 
 
-###** 🌟 About Me 
+#🌟 About Me 
 
 Innovative Communication and Computer Engineering graduate (Jadara University, 2021) with a proven track record as a Technical Account Manager, IT Project Manager, and Web Developer/Designer. 
 
