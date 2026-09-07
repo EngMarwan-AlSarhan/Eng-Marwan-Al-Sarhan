@@ -1,7 +1,10 @@
-### Hi there, I'm Marwan Al Sarhan 👋
+# 👋 Welcome! I'm Marwan Al Sarhan
 
-Communication & Computer Engineer | Technical Account Manager & IT Specialist
-📍 Amman, Jordan | 📞 +962 79 766 8980 | ✉️ Marwan.sarhan@ymail.com
+Communication & Computer Engineer | Tech Account Man & IT Specialist
+
+* 📍 **Location:** Amman, Jordan
+* 📞 **Phone:** [+962 79 766 8980](tel:+962797668980)
+* ✉️ **Email:** [Marwan.sarhan@ymail.com](mailto:Marwan.sarhan@ymail.com)
 
 ---
 
