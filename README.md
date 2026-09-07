@@ -24,7 +24,8 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 💼 Career History
 
-*Associate Technical Account Manager & Business Development
+# Associate Technical Account Manager & Business Development
+
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
@@ -47,7 +48,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
 
-# 🎓 Edu & Certifications:
+# 🎓 Edu & Certs:
 
 * B.Sc. in Communication and Computer Engineering – Jadara University, Jordan
 - (Graduated 2021 | GPA: 76.8/100)
