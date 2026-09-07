@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Marwan Al Sarhan
 
-**Communication & Computer Engineer | Tech Account Man & IT Specialist**
+**Communication & Computer Engineer | Technical Account Man & IT Specialist**
 
 *  **Location:** Amman, Jordan
 *  **Phone:** [+962797668980](tel+962797668980)
