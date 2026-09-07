@@ -13,7 +13,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 ---
 
-# 🛠️ *Key Skills
+# 🛠️ Key Skills
 
 * Management & Operations: Technical Account Management, Business Development, IT Project Management, Agile Fundamentals, Cross-functional Collaboration, Engineering Submittals.
 
@@ -27,25 +27,25 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 💼 Career History
 
-# CCE | TAM & Tech Spec
+# 1- CCE | TAM & Tech Spec
 
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
 - Administered and maintained company web infrastructure and digital assets.
 
-# Web Devs & Designer
+# 2- Web Devs & Designer
 
 - EEC Academy | Remote (Texas, US) (Mar 2023 – Sep 2023)
 - Led the end-to-end redesign of the e-commerce platform, boosting sales by {25%} through usability testing and UX enhancements.
 
-# IT Project Manager
+# 3- IT Project Manager
 
 - Excellent For Energy Consultancy | Remote (Texas, US) (May 2020 – Jun 2023)
 - Managed technology projects from conception to deployment.
 - Optimized internal systems and IT infrastructure for business consultancy services.
 
-# Web UI/UX Designer
+# 4- Web UI/UX Designer
 
 - US Procorp Co | Remote (Texas, US) (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
