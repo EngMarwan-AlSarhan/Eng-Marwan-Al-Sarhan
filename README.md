@@ -56,7 +56,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # Web UI/UX Designer
 
-- US Procorp Co | Remote (Texas, US) 
+- US Procorp Co | Remote (Texas, US)  
   (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
