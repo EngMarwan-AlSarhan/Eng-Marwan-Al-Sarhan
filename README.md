@@ -24,7 +24,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 💼 Career History
 
-# CCE | TAM & IT Specialist
+# CCE | TAM & Tech Spec
 
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
