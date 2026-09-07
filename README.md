@@ -77,11 +77,9 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # 📬 Get in Touch:
 
-- **LinkedIn:** [Marwan Al Sarhan](https://www.linkedin.com/in/marwan-sarhan)
-
 *  **LinkedIn:** [Marwan Al Sarhan](https://www.linkedin.com/in/marwan-sarhan)
-*  **Phone:** [+962797668980](tel +962797668980)**
-*  **Email:** [Marwan.sarhan@ymail.com](mailto:Marwan.sarhan@ymail.com)
+*  **Phone:** [+962 79 766 8980](tel +962 79 766 8980)
+*  **Email:** [Marwan.Sarhan@Ymail.Com](mailto:Marwan.sarhan@ymail.com)
 *  **Location:** Amman, Jordan
 
 ---
