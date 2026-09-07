@@ -35,7 +35,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # CCE | TAM & Tech Spec
 
-- Water Fountain | Remote (KSA)
+- Water Fountain | Remote (KSA)    
 (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
