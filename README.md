@@ -4,7 +4,8 @@ Communication & Computer Engineer | Technical Account Manager & IT Specialist
 📍 Amman, Jordan | 📞 +962 79 766 8980 | ✉️ Marwan.sarhan@ymail.com
 
 
-🌟 About Me
+🌟 About Me 
+
 Innovative Communication and Computer Engineering graduate (Jadara University, 2021) with a proven track record as a Technical Account Manager, IT Project Manager, and Web Developer/Designer. 
 
 I specialize in bridging the gap between engineering systems, IT infrastructure, and business operations. My background spans managing engineering submittals and technical procurement, optimizing corporate IT networks, and driving business growth through UX/UI and web development.
@@ -13,12 +14,14 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 🛠️ Core Competencies & Skills
 
 * Management & Operations: Technical Account Management, Business Development, IT Project Management, Agile Fundamentals, Cross-functional Collaboration, Engineering Submittals.
+
 * Engineering & Hardware: Digital Signal Processing (DSP), Wireless Communications, Computer Networks, Control Systems, Circuit Design, Drone Development, Embedded Systems.
+
 * Tech & Digital Assets: Web & UI/UX Design (Wix), E-commerce Optimization, System Administration, Microsoft Office 365, Digital Asset Management.
 * Languages: Arabic (Native) | English (Fluent)
 
 
-💼 Professional Experience 
+### 💼 Professional Experience 
 
 # Associate Technical Account Manager & Business Development
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
@@ -40,7 +43,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
 
-🎓 Education & Certifications:
+### 🎓 Education & Certifications:
 
 * B.Sc. in Communication and Computer Engineering – Jadara University, Jordan (Graduated 2021 | GPA: 76.8/100)
 * Certifications:
