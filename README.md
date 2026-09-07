@@ -49,7 +49,8 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # IT Project Manager
 
-- **Excellent For Energy** Remote                  (Texas, US) | (May 2020 – Jun 2023)
+- **Excellent For Energy** Remote
+  (Texas, US) | (May 2020 – Jun 2023)
 - Managed technology projects from conception to deployment.
 - Optimized internal systems and IT infrastructure for business consultancy services.
 
