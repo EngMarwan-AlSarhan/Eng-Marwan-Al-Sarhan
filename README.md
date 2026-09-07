@@ -3,6 +3,7 @@
 Communication & Computer Engineer | Technical Account Manager & IT Specialist
 📍 Amman, Jordan | 📞 +962 79 766 8980 | ✉️ Marwan.sarhan@ymail.com
 
+---
 
 # 🌟 Bio 
 
@@ -10,6 +11,7 @@ Innovative Communication and Computer Engineering graduate (Jadara University, 2
 
 I specialize in bridging the gap between engineering systems, IT infrastructure, and business operations. My background spans managing engineering submittals and technical procurement, optimizing corporate IT networks, and driving business growth through UX/UI and web development.
 
+---
 
 # 🛠️ Key Skills
 
@@ -21,6 +23,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 * Languages: Arabic (Native) | English (Fluent)
 
+---
 
 # 💼 Career History
 
@@ -47,11 +50,14 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - US Procorp Co | Remote (Texas, US) (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
+---
 
 # 🎓 Edu & Certs:
 
 * B.Sc. in Communication and Computer Engineering – Jadara Univ, Jo
 - (Graduated 2021 | GPA: 76.8/100)
+
+---
 
 # 📜 Certifications:
 
@@ -61,6 +67,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
   - ASP (MVC) Software Development (The Hope, 2021)
   - Microsoft Office 365 & ICDL (Deep Horizon Consulting)
 
+---
 
 # 📬 Get in Touch:
 
@@ -70,5 +77,5 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 - **Phone:** +962 79 766 8980
 
 ---
-> **Open to new opportunities & collaborations.** 🚀
+> **Open to new opportunities & collaborations.** 
 
