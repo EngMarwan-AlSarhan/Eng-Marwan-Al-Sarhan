@@ -13,7 +13,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 ---
 
-# **🛠️ Key Skills
+# 🛠️  **Key Skills
 
 * Management & Operations: Technical Account Management, Business Development, IT Project Management, Agile Fundamentals, Cross-functional Collaboration, Engineering Submittals.
 
