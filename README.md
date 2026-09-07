@@ -62,7 +62,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
   - Microsoft Office 365 & ICDL (Deep Horizon Consulting)
 
 
-# 📬 Connect with Me:
+# 📬 Get in Touc:
 
 - LinkedIn: (https://www.linkedin.com/in/marwan-sarhan)
 - Email: Marwan.sarhan@ymail.com
