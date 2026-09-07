@@ -50,13 +50,13 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 # IT Project Manager
 
 - Excellent For Energy Consultancy
- Remote|(Texas, US)|(May 2020 – Jun 2023)
+ Remote (Texas, US)|(May 2020 – Jun 2023)
 - Managed technology projects from conception to deployment.
 - Optimized internal systems and IT infrastructure for business consultancy services.
 
 # Web UI/UX Designer
 
-- US Procorp Co | Remote (Texas, US
+- US Procorp Co | Remote (Texas, US) 
 (Mar 2020 – May 2021)
 - Designed intuitive user interfaces, corporate digital assets, and conducted usability research.
 
