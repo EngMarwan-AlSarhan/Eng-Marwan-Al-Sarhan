@@ -43,7 +43,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 
 # Web Devs & Designer
 
-- EEC Academy | Remote (Texas, US)
+- EEC Academy | Remote (Texas, US)   
   (Mar 2023 – Sep 2023)
 - Led the end-to-end redesign of the e-commerce platform, boosting sales by {25%} through usability testing and UX enhancements.
 
