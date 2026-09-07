@@ -22,7 +22,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 * Languages: Arabic (Native) | English (Fluent)
 
 
-# 💼 Professional Experience 
+# 💼 Career History
 
 *Associate Technical Account Manager & Business Development
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
