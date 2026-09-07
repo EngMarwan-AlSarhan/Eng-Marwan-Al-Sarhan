@@ -2,9 +2,11 @@
 
 Communication & Computer Engineer | Tech Account Man & IT Specialist
 
-* 📍 **Location:** Amman, Jordan
-* 📞 **Phone:** [+962 79 766 8980](tel:+962797668980)
-* ✉️ **Email:** [Marwan.sarhan@ymail.com](mailto:Marwan.sarhan@ymail.com)
+*  **Location:** Amman, Jordan
+*  **Phone:** [+962 79 766 8980](tel:+962797668980)
+*  **Email:** [Marwan.sarhan@ymail.com](mailto:Marwan.sarhan@ymail.com)
+*  **LinkedIn:** [Marwan Al Sarhan](https://www.linkedin.com/in/marwan-sarhan)
+
 
 ---
 
