@@ -11,7 +11,7 @@ Innovative Communication and Computer Engineering graduate (Jadara University, 2
 I specialize in bridging the gap between engineering systems, IT infrastructure, and business operations. My background spans managing engineering submittals and technical procurement, optimizing corporate IT networks, and driving business growth through UX/UI and web development.
 
 
-🛠️ Core Competencies & Skills
+# 🛠️ Core Competencies & Skills
 
 * Management & Operations: Technical Account Management, Business Development, IT Project Management, Agile Fundamentals, Cross-functional Collaboration, Engineering Submittals.
 
@@ -21,9 +21,9 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
 * Languages: Arabic (Native) | English (Fluent)
 
 
-### 💼 Professional Experience 
+# 💼 Professional Experience 
 
-# Associate Technical Account Manager & Business Development
+*Associate Technical Account Manager & Business Development
 - Water Fountain | Remote (Saudi Arabia) (Jun 2026 – Nov 2025)
 - Managed technical accounts and spearheaded business development initiatives.
 - Oversaw engineering submittals, vendor communications, and corporate documentation.
@@ -54,7 +54,7 @@ I specialize in bridging the gap between engineering systems, IT infrastructure,
   - Microsoft Office 365 & ICDL (Deep Horizon Consulting)
 
 
-📬 Connect with Me:
+# 📬 Connect with Me:
 
 - LinkedIn: (https://www.linkedin.com/in/marwan-sarhan)
 - Email: Marwan.sarhan@ymail.com
